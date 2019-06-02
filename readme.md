@@ -1,4 +1,4 @@
-# HTML-Admin-template
+# Under maintance template
 Very simple under maintenance website, with youtube video background.
 
 Preview:
